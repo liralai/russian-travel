@@ -3,6 +3,8 @@
 ### Обзор
 * Интро
 * Figma
+* Технологии
+* Ссылка на GitHub Pages
 * Планы по развитию
 
 **Интро**
@@ -13,6 +15,14 @@
 **Figma**
 
 * [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+
+**Технологии**
+
+В данной работе используются технологии HTML, CSS и БЭМ
+
+**Ссылка на GitHub Pages**
+
+https://liralai.github.io/russian-travel/index.html
 
 **Планы по развитию**
 
