@@ -1,15 +1,10 @@
 .header__lang-links {
     display: flex;
-    list-style-type: none;
-    width: calc(30px*2 + 18px);
+    gap: 18px;
     justify-content: space-between;
-    margin: 0;
-    padding: 0;
     align-items: flex-end;
 }
 
-@media screen and (max-width: 767px) {
-  .header__lang-links {
-    width: calc(22px*2 + 18px);
-  }
+.header__lang-links:first-child {
+  text-decoration: underline;
 }

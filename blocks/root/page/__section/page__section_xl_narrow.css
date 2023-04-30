@@ -1,0 +1,26 @@
+.page__section_xl_narrow {
+  max-width: 1080px;
+}
+
+/*
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+  .page__section_lg_wide {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .page__section_md_wide {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .page__section_sm_wide {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+*/
