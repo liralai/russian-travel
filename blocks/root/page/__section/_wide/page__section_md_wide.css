@@ -1,7 +1,0 @@
-@media screen and (max-width: 1023px) {
-  .page__section_md_wide {
-    max-width: 768px;
-    padding-left: 24px;
-    padding-right: 24px;
-  }
-}

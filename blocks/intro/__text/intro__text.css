@@ -4,4 +4,6 @@
   font-size: 16px;
   line-height: 1.63;
   margin: 0 0 33px 0;
+  color: #FFFFFF;
+  text-rendering: optimizeLegibility;
 }
