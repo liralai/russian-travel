@@ -1,9 +1,9 @@
-.margin-top__small {
+.margin-top-small {
   margin-top: 28px;
 }
 
 @media screen and (max-width: 767px) {
-  .margin-top__small {
+  .margin-top-small {
     margin-top: 16px;
   }
 }

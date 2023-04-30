@@ -54,10 +54,10 @@
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
 
-@import url(../blocks/margin-top/margin-top.css);
-@import url(../blocks/margin-top/__small/margin-top__small.css);
-@import url(../blocks/margin-top/__medium/margin-top__medium.css);
-@import url(../blocks/margin-top/__large/margin-top__large.css);
+@import url(../blocks/margin-top-small/margin-top-small.css);
 
-@import url(../blocks/margin-bottom/margin-bottom.css);
-@import url(../blocks/margin-bottom/__small/margin-bottom__small.css);
+@import url(../blocks/margin-top-medium/margin-top-medium.css);
+
+@import url(../blocks/margin-top-large/margin-top-large.css);
+
+@import url(../blocks/margin-bottom-small/margin-bottom-small.css);
