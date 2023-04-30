@@ -1,15 +1,15 @@
-.margin-top_size_l {
+.margin-top__large {
   margin-top: 92px;
 }
 
 @media screen and (max-width: 1023px) {
-  .margin-top_size_l {
+  .margin-top__large {
     margin-top: 88px;
   }
 }
 
 @media screen and (max-width: 767px) {
-  .margin-top_size_l {
+  .margin-top__large {
     margin-top: 64px;
   }
 }

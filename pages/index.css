@@ -54,8 +54,10 @@
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
 
-@import url(../blocks/margin-top/_size/margin-top_size_s.css);
-@import url(../blocks/margin-top/_size/margin-top_size_m.css);
-@import url(../blocks/margin-top/_size/margin-top_size_l.css);
+@import url(../blocks/margin-top/margin-top.css);
+@import url(../blocks/margin-top/__small/margin-top__small.css);
+@import url(../blocks/margin-top/__medium/margin-top__medium.css);
+@import url(../blocks/margin-top/__large/margin-top__large.css);
 
-@import url(../blocks/margin-bottom/_size/margin-bottom_size_s.css);
+@import url(../blocks/margin-bottom/margin-bottom.css);
+@import url(../blocks/margin-bottom/__small/margin-bottom__small.css);
