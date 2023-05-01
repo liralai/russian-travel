@@ -1,13 +1,13 @@
 @import url(../vendor/normalize.css);
 
-@import url(../vendor/fonts.css);
+@import url(../vendor/fonts/fonts.css);
 
 @import url(../blocks/page/page.css);
 @import url(../blocks/page/__section/page__section.css);
-@import url(../blocks/page/__section/_narrow/page__section_xl_narrow.css);
-@import url(../blocks/page/__section/_wide/page__section_lg_wide.css);
-@import url(../blocks/page/__section/_wide/page__section_md_wide.css);
-@import url(../blocks/page/__section/_wide/page__section_sm_wide.css);
+@import url(../blocks/page/__section/_narrow/page__section_narrow_xl.css);
+@import url(../blocks/page/__section/_wide/page__section_wide_lg.css);
+@import url(../blocks/page/__section/_wide/page__section_wide_md.css);
+@import url(../blocks/page/__section/_wide/page__section_wide_sm.css);
 
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);
@@ -52,10 +52,8 @@
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
 
-@import url(../blocks/margin-top-small/margin-top-small.css);
-
-@import url(../blocks/margin-top-medium/margin-top-medium.css);
-
-@import url(../blocks/margin-top-large/margin-top-large.css);
-
-@import url(../blocks/margin-bottom-small/margin-bottom-small.css);
+@import url(../blocks/margin/margin.css);
+@import url(../blocks/margin/__top/_size/margin__top_size_small.css);
+@import url(../blocks/margin/__top/_size/margin__top_size_medium.css);
+@import url(../blocks/margin/__top/_size/margin__top_size_large.css);
+@import url(../blocks/margin/__bottom/margin__bottom.css);
