@@ -1,9 +1,0 @@
-.margin__top_size_medium {
-  margin-top: 56px;
-}
-
-@media screen and (max-width: 1279px) {
-  .margin__top_size_medium {
-    margin-top: 48px;
-  }
-}
