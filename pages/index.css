@@ -49,7 +49,5 @@
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
 
-@import url(../blocks/page/__section/_narrow/page__section_narrow_xl.css);
-@import url(../blocks/page/__section/_wide/page__section_wide_lg.css);
-@import url(../blocks/page/__section/_wide/page__section_wide_md.css);
-@import url(../blocks/page/__section/_wide/page__section_wide_sm.css);
+@import url(../blocks/page/__section/_narrow/page__section_narrow.css);
+@import url(../blocks/page/__section/_wide/page__section_wide.css);
