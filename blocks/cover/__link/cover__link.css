@@ -23,7 +23,6 @@
   position: absolute;
   width: 100%;
   min-height: 740px;
-  overflow: hidden;
   transition: opacity 1s;
 }
 
