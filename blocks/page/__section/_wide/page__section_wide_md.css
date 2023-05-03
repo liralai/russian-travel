@@ -1,0 +1,6 @@
+@media screen and (max-width: 1023px) {
+  .page__section_wide_md {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}

@@ -1,0 +1,6 @@
+@media screen and (max-width: 767px) {
+  .page__section_wide_sm {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
